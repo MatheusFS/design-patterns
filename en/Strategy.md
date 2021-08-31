@@ -1,21 +1,21 @@
 # 1. Design Patterns: Strategy
 ### Summary
 1. Design Patterns: Strategy
-    - 1.1. [Problem](#1-1-problem)
-    - 1.2. [What you should NOT do](#1-2-what-you-should-not-do)
-        - 1.2.1. [Working Tree](#1-2-1-working-tree)
-        - 1.2.2. [Animal.php](#1-2-2-animal-php)
-        - 1.2.3. [Dog.php](#1-2-3-dog-php)
-        - 1.2.4. [Bird.php](#1-2-4-bird-php)
-    - 1.3. [How you should consider doing](#1-3-how-you-should-consider-doing)
-        - 1.3.1. [Working Tree](#1-3-1-working-tree)
-        - 1.3.2. [Flies.php](#1-3-2-flies-php)
-        - 1.3.3. [ItFlies.php](#1-3-3-itflies-php)
-        - 1.3.4. [CantFly.php](#1-3-4-cantfly-php)
-        - 1.3.5. [Animal.php](#1-3-5-animal-php)
-        - 1.3.6. [Dog.php](#1-3-6-dog-php)
-        - 1.3.7. [Bird.php](#1-3-7-bird-php)
-        - 1.3.8. [runtime.php](#1-3-8-runtime-php)
+    - 1.1. [Problem](#11-problem)
+    - 1.2. [What you should NOT do](#12-what-you-should-not-do)
+        - 1.2.1. [Working Tree](#121-working-tree)
+        - 1.2.2. [Animal.php](#122-animal-php)
+        - 1.2.3. [Dog.php](#123-dog-php)
+        - 1.2.4. [Bird.php](#124-bird-php)
+    - 1.3. [How you should consider doing](#13-how-you-should-consider-doing)
+        - 1.3.1. [Working Tree](#131-working-tree)
+        - 1.3.2. [Flies.php](#132-flies-php)
+        - 1.3.3. [ItFlies.php](#133-itflies-php)
+        - 1.3.4. [CantFly.php](#134-cantfly-php)
+        - 1.3.5. [Animal.php](#135-animal-php)
+        - 1.3.6. [Dog.php](#136-dog-php)
+        - 1.3.7. [Bird.php](#137-bird-php)
+        - 1.3.8. [runtime.php](#138-runtime-php)
 
 # 1.1. Problem
 Animal::class

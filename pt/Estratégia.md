@@ -1,21 +1,21 @@
 # 1. Padrões de projetos: Estratégia
 ### Índice
 1. Padrões de projetos: Estratégia
-    - 1.1. [Problema](#1-1-problema)
-    - 1.2. [O que NÃO deveria fazer](#1-2-o-que-nao-deveria-fazer)
-        - 1.2.1. [Árvore de trabalho](#1-2-1-arvore-de-trabalho)
-        - 1.2.2. [Animal.php](#1-2-2-animal-php)
-        - 1.2.3. [Cachorro.php](#1-2-3-dog-php)
-        - 1.2.4. [Passaro.php](#1-2-4-bird-php)
-    - 1.3. [Como deve considerar fazer](#1-3-como-deve-considerar-fazer)
-        - 1.3.1. [Árvore de trabalho](#1-3-1-arvore-de-trabalho)
-        - 1.3.2. [Voa.php](#1-3-2-voa-php)
-        - 1.3.3. [PodeVoar.php](#1-3-3-podevoar-php)
-        - 1.3.4. [NaoVoa.php](#1-3-4-naovoa-php)
-        - 1.3.5. [Animal.php](#1-3-5-animal-php)
-        - 1.3.6. [Cachorro.php](#1-3-6-cachorro-php)
-        - 1.3.7. [Passaro.php](#1-3-7-passaro-php)
-        - 1.3.8. [execucao.php](#1-3-8-execucao-php)
+    - 1.1. [Problema](#11-problema)
+    - 1.2. [O que NÃO deveria fazer](#12-o-que-não-deveria-fazer)
+        - 1.2.1. [Árvore de trabalho](#121-árvore-de-trabalho)
+        - 1.2.2. [Animal.php](#122-animal-php)
+        - 1.2.3. [Cachorro.php](#123-dog-php)
+        - 1.2.4. [Passaro.php](#124-bird-php)
+    - 1.3. [Como deve considerar fazer](#13-como-deve-considerar-fazer)
+        - 1.3.1. [Árvore de trabalho](#131-árvore-de-trabalho)
+        - 1.3.2. [Voa.php](#132-voa-php)
+        - 1.3.3. [PodeVoar.php](#133-podevoar-php)
+        - 1.3.4. [NaoVoa.php](#134-naovoa-php)
+        - 1.3.5. [Animal.php](#135-animal-php)
+        - 1.3.6. [Cachorro.php](#136-cachorro-php)
+        - 1.3.7. [Passaro.php](#137-passaro-php)
+        - 1.3.8. [execucao.php](#138-execucao-php)
 
 # 1.1. Problema
 Animal::class
